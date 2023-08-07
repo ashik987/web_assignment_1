@@ -1,0 +1,75 @@
+
+body{
+       text-family:arial;
+     background: #ffcccc; 
+    
+}
+
+#content{
+    width: 575px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 300px;
+    background: #ffffff;
+    width: 582px;
+    height: auto;
+    padding: 15px;
+    margin-bottom: 100px;
+}
+#sub-content-button{
+    display:inline;
+    float: left;
+}
+#sub-content-button button{
+    background-color: rgb(232, 230, 230);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 25px;
+}
+.course-content{
+    margin-left: 100px;
+}
+.course-content button a{
+    color: black;
+}
+.course-content button{
+    margin-right: 7px;
+}
+.course-content #button1{
+    background-color: rgb(188, 137, 223);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 25px;
+}
+.course-content #button2{
+    background-color: rgb(132, 195, 234);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 25px;
+}
+.course-content #button3{
+    background-color: rgb(223, 167, 143);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 25px;
+}
+.course-content #button4{
+    background-color: rgb(154, 240, 156);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 25px;
+}
+.course-content #button5{
+    background-color: rgb(154, 240, 156);
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    height: 25px;
+    margin-top: 8px;
+}
+
